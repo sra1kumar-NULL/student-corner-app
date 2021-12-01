@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:studentcorner/ui/grade.dart';
+import 'package:studentcorner/ui/starthome.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,6 +16,6 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: GradeCalc());
+        home: StartScreen());
   }
 }

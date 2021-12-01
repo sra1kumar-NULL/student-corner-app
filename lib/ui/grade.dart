@@ -56,7 +56,7 @@ class _GradeCalcState extends State<GradeCalc> {
             textColor: Colors.white,
           ),
           Text(
-            gpa.toString()
+            gpa==null?"":gpa.toStringAsFixed(2)
           )
 
         ],
