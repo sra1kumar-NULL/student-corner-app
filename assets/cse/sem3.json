@@ -1,0 +1,3642 @@
+[
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1621051",
+		"Subname": "STATISTICS WITH R PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1621052",
+		"Subname": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1621053",
+		"Subname": "DIGITAL LOGIC DESIGN",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1621054",
+		"Subname": "PYTHON PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1621055",
+		"Subname": "DATA STRUCTURES THROUGH C++",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1621056",
+		"Subname": "COMPUTER GRAPHICS",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1621057",
+		"Subname": "DATA STRUCTURES THROUGH C++ LAB",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1621058",
+		"Subname": "PYTHON PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	}
+]

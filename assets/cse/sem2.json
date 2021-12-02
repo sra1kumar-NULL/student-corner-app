@@ -1,0 +1,3818 @@
+[
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "C",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "C",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "D",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "C",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "D",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "D",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "D",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "D",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161201",
+		"Subname": "ENGLISH-II",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161203",
+		"Subname": "MATHEMATICS - III",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161211",
+		"Subname": "APPLIED CHEMISTRY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161212",
+		"Subname": "ENVIRONMENTAL STUDIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161215",
+		"Subname": "OBJECT ORIENTED PROGRAMMING THROUGH C++",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161216",
+		"Subname": "ENGINEERING",
+		"": "MECHANICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161221",
+		"Subname": "ENGLISH - COMMUNICATION SKILLS LAB - II",
+		"": "",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161227",
+		"Subname": "APPLIED/ENGINEERING CHEMISTRY LABORATORY",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161229",
+		"Subname": "OBJECT ORIENTED PROGRAMMING LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	}
+]

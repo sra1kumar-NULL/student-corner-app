@@ -1,0 +1,3341 @@
+[
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "C",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "C",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161101",
+		"Subname": "ENGLISH-I",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161102",
+		"Subname": "MATHEMATICS-I",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161104",
+		"Subname": "APPLIED PHYSICS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161107",
+		"Subname": "COMPUTER PROGRAMMING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161109",
+		"Subname": "MATHEMATICS-II (MATHEMATICAL METHODS)",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161112",
+		"Subname": "ENGINEERING DRAWING(CSE/IT/AGRI.E)",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161114",
+		"Subname": "ENGLISH-COMMUNICATION SKILLS LAB-I",
+		"Grade": "B",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161115",
+		"Subname": "APPLIED/ENGINEERING PHYSICS LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R161119",
+		"Subname": "C PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	}
+]

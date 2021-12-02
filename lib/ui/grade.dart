@@ -41,7 +41,7 @@ class _GradeCalcState extends State<GradeCalc> {
               return Text(" ");
             },
             future:
-                DefaultAssetBundle.of(context).loadString("assets/marks.json"),
+                DefaultAssetBundle.of(context).loadString("assets/cse/sem6.json"),
           ),
 
           FlatButton(
@@ -69,16 +69,23 @@ class _GradeCalcState extends State<GradeCalc> {
     var numer = 0;
     var denom = 0;
     var showData=datalist;
-    debugPrint(check.substring(7));
-    debugPrint(check.substring(0,4));
-    int x=int.parse(check.substring(7));
-    int start=0;
-    int end=showData.length;
-    if(check.substring(0,4)=='1803'){
+    if(check.substring(0,4)=="1903"){
+      index=index+53*9;
+      debugPrint(index.toString());
+      while(showData[index]['Htno']!=check){
+        index++;
+      }
+    }
+    else{
+      int x=int.parse(check.substring(7));
+      int start=0;
+      int end=showData.length-1;
+      debugPrint(end.toString());
       while(start<=end){
         int mid= (start+end)~/2;
         if(x==int.parse(showData[mid]['Htno'].substring(7))){
           index=mid;
+          debugPrint(mid.toString());
           break;
         }
         else if(x > int.parse(showData[mid]['Htno'].substring(7))){
@@ -89,12 +96,9 @@ class _GradeCalcState extends State<GradeCalc> {
         }
       }
     }
-    else{
-      index=index+53*9;
-      while(showData[index]['Htno']!=check){
-        index++;
-      }
-    }
+    debugPrint(check.substring(7));
+    //debugPrint(check.substring(0,4));
+    //debugPrint(index.toString());
     while(showData[index]['Htno']==check){
        if(showData[index]['Grade']=='O'){
             numer+=10*int.parse(showData[index]['Credits']);

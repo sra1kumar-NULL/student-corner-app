@@ -1,0 +1,4097 @@
+[
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "O",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1632049",
+		"Subname": "IPR & PATENTS",
+		"Grade": "COMPLETED",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1632051",
+		"Subname": "COMPUTER NETWORKS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1632052",
+		"Subname": "DATA WAREHOUSING AND MINING",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1632053",
+		"Subname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1632054",
+		"Subname": "SOFTWARE TESTING METHODOLOGIES",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1632056",
+		"Subname": "NETWORK PROGRAMMING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1632057",
+		"Subname": "SOFTWARE TESTING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1632058",
+		"Subname": "DATA WAREHOUSING AND MINING LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R163205B",
+		"Subname": "INTERNET OF THINGS",
+		"Grade": "B",
+		"Credits": "3"
+	}
+]

@@ -1,0 +1,4170 @@
+[
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "Htno",
+		"Subcode": "Subcode",
+		"Subname": "Subname",
+		"": "",
+		"Grade": "Grade",
+		"Credits": "Credits"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1622051",
+		"Subname": "SOFTWARE ENGINEERING",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1622052",
+		"Subname": "JAVA PROGRAMMING",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1622053",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1622054",
+		"Subname": "COMPUTER ORGANIZATION",
+		"": "",
+		"Grade": "F",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1622055",
+		"Subname": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+		"": "",
+		"Grade": "ABSENT",
+		"Credits": "0"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1622056",
+		"Subname": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1622057",
+		"Subname": "ADVANCED DATA STRUCTURES",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1622058",
+		"Subname": "JAVA PROGRAMMING",
+		"": "LAB",
+		"Grade": "O",
+		"Credits": "2"
+	}
+]
