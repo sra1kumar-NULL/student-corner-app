@@ -133,10 +133,17 @@ class _GradeCalcState extends State<GradeCalc> {
     var index = 0;
     var numer = 0;
     var denom = 0;
-    var subs=0;
     var showData=datalist;
+    var subs;
+    var d=int.parse(showData[showData.length-1]['Htno'].substring(8));
+    debugPrint(d.toString());
+    var n=0;
+    n=showData.length-1;
+    debugPrint(n.toString());
+    subs = n/d;
+    debugPrint(subs.toString());
     if(check.substring(0,4)=="1903"){
-      index=index+53*9;
+      index=index+53*subs;
       while(showData[index]['Htno']!=check){
         index++;
       }
@@ -147,7 +154,7 @@ class _GradeCalcState extends State<GradeCalc> {
     }
     else{
       int x=int.parse(check.substring(8));
-      index=index+(x-1)*9;
+      index=index+(x-1)*subs;
     }
     while(showData[index]['Htno']==check){
        if(showData[index]['Grade']=='O'){
