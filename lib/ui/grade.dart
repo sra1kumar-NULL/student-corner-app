@@ -69,7 +69,32 @@ class _GradeCalcState extends State<GradeCalc> {
     var numer = 0;
     var denom = 0;
     var showData=datalist;
-    debugPrint(showData[index]['Htno'].toString());
+    debugPrint(check.substring(7));
+    debugPrint(check.substring(0,4));
+    int x=int.parse(check.substring(7));
+    int start=0;
+    int end=showData.length;
+    if(check.substring(0,4)=='1803'){
+      while(start<=end){
+        int mid= (start+end)~/2;
+        if(x==int.parse(showData[mid]['Htno'].substring(7))){
+          index=mid;
+          break;
+        }
+        else if(x > int.parse(showData[mid]['Htno'].substring(7))){
+          start=mid+1;
+        }
+        else{
+          end=mid-1;
+        }
+      }
+    }
+    else{
+      index=index+53*9;
+      while(showData[index]['Htno']!=check){
+        index++;
+      }
+    }
     while(showData[index]['Htno']==check){
        if(showData[index]['Grade']=='O'){
             numer+=10*int.parse(showData[index]['Credits']);
@@ -99,9 +124,12 @@ class _GradeCalcState extends State<GradeCalc> {
          numer+=0;
          denom+=10*int.parse(showData[index]['Credits']);
        }
-       index++;
+       index+=1;
     }
+    debugPrint(numer.toString());
+    debugPrint(denom.toString());
     final result=(numer/denom)*10;
+    debugPrint(result.toString());
     return result;
   }
 }

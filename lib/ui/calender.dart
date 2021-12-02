@@ -8,6 +8,11 @@ class Calender extends StatelessWidget {
       appBar: AppBar(
         title: Text("Academic Calendar"),
       ),
+      body: Center(
+        child: Image(
+          image: AssetImage("assets/calender.png"),
+        ),
+      ),
     );
   }
 }
