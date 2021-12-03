@@ -110,7 +110,7 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 35,
+              height: 40,
               child: Card(
                 elevation: 8,
                 child: Row(
@@ -130,7 +130,7 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 35,
+              height: 40,
               child: Card(
                 elevation: 8,
                 child: Row(
@@ -150,7 +150,7 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 35,
+              height: 40,
               child: Card(
                 elevation: 8,
                 child: Row(
@@ -170,7 +170,7 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 35,
+              height: 40,
               child: Card(
                 elevation: 8,
                 child: Row(
@@ -190,7 +190,7 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 35,
+              height: 40,
               child: Card(
                 elevation: 8,
                 child: Row(
@@ -210,7 +210,7 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 35,
+              height: 40,
               child: Card(
                 elevation: 8,
                 child: Row(
