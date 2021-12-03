@@ -107,27 +107,126 @@ class _GradeCalcState extends State<GradeCalc> {
               ),
             ],
           ),
-          Card(
-            child: Text(
-              gpa1==null?"":gpa1.toStringAsFixed(2)
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Container(
+              height: 35,
+              child: Card(
+                elevation: 8,
+                child: Row(
+                  children: [
+                    Text("Year I Semester 1  :  "),
+                    SizedBox(
+                      width: 160,
+                    ),
+                    Text(
+                      gpa1==null?"":gpa1.toStringAsFixed(2)
+                    ),
+                  ],
+                ),
+              ),
             ),
           ),
-          Text(
-              gpa2==null?"":gpa2.toStringAsFixed(2)
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Container(
+              height: 35,
+              child: Card(
+                elevation: 8,
+                child: Row(
+                  children: [
+                    Text("Year I Semester 2  :  "),
+                    SizedBox(
+                      width: 160,
+                    ),
+                    Text(
+                        gpa2==null?"":gpa2.toStringAsFixed(2)
+                    ),
+                  ],
+                ),
+              ),
+            ),
           ),
-          Text(
-              gpa3==null?"":gpa3.toStringAsFixed(2)
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Container(
+              height: 35,
+              child: Card(
+                elevation: 8,
+                child: Row(
+                  children: [
+                    Text("Year II Semester 1  : "),
+                    SizedBox(
+                      width: 160,
+                    ),
+                    Text(
+                        gpa3==null?"":gpa3.toStringAsFixed(2)
+                    ),
+                  ],
+                ),
+              ),
+            ),
           ),
-          Text(
-              gpa4==null?"":gpa4.toStringAsFixed(2)
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Container(
+              height: 35,
+              child: Card(
+                elevation: 8,
+                child: Row(
+                  children: [
+                    Text("Year II Semester 2  : "),
+                    SizedBox(
+                      width: 160,
+                    ),
+                    Text(
+                        gpa4==null?"":gpa4.toStringAsFixed(2)
+                    ),
+                  ],
+                ),
+              ),
+            ),
           ),
-          Text(
-              gpa5==null?"":gpa5.toStringAsFixed(2)
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Container(
+              height: 35,
+              child: Card(
+                elevation: 8,
+                child: Row(
+                  children: [
+                    Text("Year III Semester 1  :"),
+                    SizedBox(
+                      width: 160,
+                    ),
+                    Text(
+                        gpa5==null?"":gpa5.toStringAsFixed(2)
+                    ),
+                  ],
+                ),
+              ),
+            ),
           ),
-          Text(
-              gpa6==null?"":gpa6.toStringAsFixed(2)
-          )
-
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Container(
+              height: 35,
+              child: Card(
+                elevation: 8,
+                child: Row(
+                  children: [
+                    Text("Year III Semester 2  :"),
+                    SizedBox(
+                      width: 160,
+                    ),
+                    Text(
+                        gpa6==null?"":gpa6.toStringAsFixed(2)
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ),
         ],
       )),
     );
