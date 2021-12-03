@@ -14,7 +14,6 @@ class _GradeCalcState extends State<GradeCalc> {
   final rollcontroller = TextEditingController();
   var sem1,sem2,sem3,sem4,sem5,sem6;
   var gpa1,gpa2,gpa3,gpa4,gpa5,gpa6;
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -134,27 +133,32 @@ class _GradeCalcState extends State<GradeCalc> {
     var numer = 0;
     var denom = 0;
     var showData=datalist;
-    var subs;
-    var d=int.parse(showData[showData.length-1]['Htno'].substring(8));
-    debugPrint(d.toString());
-    var n=0;
-    n=showData.length-1;
-    debugPrint(n.toString());
-    subs = n/d;
+    var subs=0;
+    var i=showData.length-1;
+    var subfin=showData[i]['Htno'];
+    while(showData[i]['Htno']==subfin){
+      i--;
+      subs++;
+    }
     debugPrint(subs.toString());
-    if(check.substring(0,4)=="1903"){
+    if(check.substring(0,5)=="19035"){
       index=index+53*subs;
       while(showData[index]['Htno']!=check){
         index++;
       }
-      // debugPrint(index.toString());
-      // debugPrint(index.toString());
-      // debugPrint(showData[584]['Htno']);
-      // debugPrint(showData[576]['Htno']);
+      if(index>=showData.length-1){
+        index=showData.length-1;
+      }
     }
     else{
       int x=int.parse(check.substring(8));
       index=index+(x-1)*subs;
+      while(showData[index]['Htno']!=check){
+        index+=1;
+      }
+      if(index>=showData.length-1){
+        index=showData.length-1;
+      }
     }
     while(showData[index]['Htno']==check){
        if(showData[index]['Grade']=='O'){
@@ -192,8 +196,6 @@ class _GradeCalcState extends State<GradeCalc> {
        }
        index+=1;
     }
-    debugPrint(numer.toString());
-    debugPrint(denom.toString());
     final result=numer/denom;
     debugPrint(result.toString());
     return result;

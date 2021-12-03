@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:photo_view/photo_view.dart';
 class TimeTable extends StatelessWidget {
   const TimeTable({Key? key}) : super(key: key);
 
@@ -7,6 +8,11 @@ class TimeTable extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Time Table"),
+      ),
+      body: Center(
+        child: PhotoView(
+          imageProvider: AssetImage("assets/timetable.png"),
+        ),
       ),
     );
   }

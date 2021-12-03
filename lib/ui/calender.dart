@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:photo_view/photo_view.dart';
 class Calender extends StatelessWidget {
   const Calender({Key? key}) : super(key: key);
 
@@ -9,9 +10,9 @@ class Calender extends StatelessWidget {
         title: Text("Academic Calendar"),
       ),
       body: Center(
-        child: Image(
-          image: AssetImage("assets/calender.png"),
-        ),
+        child:PhotoView(
+          imageProvider: AssetImage("assets/calender.png"),
+        )
       ),
     );
   }
