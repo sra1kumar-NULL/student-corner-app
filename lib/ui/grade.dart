@@ -33,61 +33,6 @@ class _GradeCalcState extends State<GradeCalc> {
               controller: rollcontroller,
             ),
           ),
-          FutureBuilder(
-            builder: (context, snapshot) {
-              var showData = json.decode(snapshot.data.toString());
-              sem1=showData;
-              return Text(" ");
-            },
-            future:
-                DefaultAssetBundle.of(context).loadString("assets/cse/sem1.json"),
-          ),
-          FutureBuilder(
-            builder: (context, snapshot) {
-              var showData = json.decode(snapshot.data.toString());
-              sem2=showData;
-              return Text(" ");
-            },
-            future:
-            DefaultAssetBundle.of(context).loadString("assets/cse/sem2.json"),
-          ),
-          FutureBuilder(
-            builder: (context, snapshot) {
-              var showData = json.decode(snapshot.data.toString());
-              sem3=showData;
-              return Text(" ");
-            },
-            future:
-            DefaultAssetBundle.of(context).loadString("assets/cse/sem3.json"),
-          ),
-          FutureBuilder(
-            builder: (context, snapshot) {
-              var showData = json.decode(snapshot.data.toString());
-              sem4=showData;
-              return Text(" ");
-            },
-            future:
-            DefaultAssetBundle.of(context).loadString("assets/cse/sem4.json"),
-          ),
-          FutureBuilder(
-            builder: (context, snapshot) {
-              var showData = json.decode(snapshot.data.toString());
-              sem5=showData;
-              return Text(" ");
-            },
-            future:
-            DefaultAssetBundle.of(context).loadString("assets/cse/sem5.json"),
-          ),
-          FutureBuilder(
-            builder: (context, snapshot) {
-              var showData = json.decode(snapshot.data.toString());
-              sem6=showData;
-              return Text(" ");
-            },
-            future:
-            DefaultAssetBundle.of(context).loadString("assets/cse/sem6.json"),
-          ),
-
           FlatButton(
             onPressed: () {
               setState(() {
@@ -104,8 +49,68 @@ class _GradeCalcState extends State<GradeCalc> {
             color: Colors.blue,
             textColor: Colors.white,
           ),
-          Text(
-            gpa1==null?"":gpa1.toStringAsFixed(2)
+          Row(
+            children: [
+              FutureBuilder(
+                builder: (context, snapshot) {
+                  var showData = json.decode(snapshot.data.toString());
+                  sem1=showData;
+                  return Text("");
+                },
+                future:
+                    DefaultAssetBundle.of(context).loadString("assets/cse/sem1.json"),
+              ),
+              FutureBuilder(
+                builder: (context, snapshot) {
+                  var showData = json.decode(snapshot.data.toString());
+                  sem2=showData;
+                  return Text("");
+                },
+                future:
+                DefaultAssetBundle.of(context).loadString("assets/cse/sem2.json"),
+              ),
+              FutureBuilder(
+                builder: (context, snapshot) {
+                  var showData = json.decode(snapshot.data.toString());
+                  sem3=showData;
+                  return Text("");
+                },
+                future:
+                DefaultAssetBundle.of(context).loadString("assets/cse/sem3.json"),
+              ),
+              FutureBuilder(
+                builder: (context, snapshot) {
+                  var showData = json.decode(snapshot.data.toString());
+                  sem4=showData;
+                  return Text("");
+                },
+                future:
+                DefaultAssetBundle.of(context).loadString("assets/cse/sem4.json"),
+              ),
+              FutureBuilder(
+                builder: (context, snapshot) {
+                  var showData = json.decode(snapshot.data.toString());
+                  sem5=showData;
+                  return Text("");
+                },
+                future:
+                DefaultAssetBundle.of(context).loadString("assets/cse/sem5.json"),
+              ),
+              FutureBuilder(
+                builder: (context, snapshot) {
+                  var showData = json.decode(snapshot.data.toString());
+                  sem6=showData;
+                  return Text("");
+                },
+                future:
+                DefaultAssetBundle.of(context).loadString("assets/cse/sem6.json"),
+              ),
+            ],
+          ),
+          Card(
+            child: Text(
+              gpa1==null?"":gpa1.toStringAsFixed(2)
+            ),
           ),
           Text(
               gpa2==null?"":gpa2.toStringAsFixed(2)
