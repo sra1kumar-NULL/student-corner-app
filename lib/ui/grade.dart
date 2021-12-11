@@ -110,14 +110,14 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 40,
+              height: 20,
               child: Card(
                 elevation: 8,
                 child: Row(
                   children: [
                     Text("Year I Semester 1  :  "),
                     SizedBox(
-                      width: 160,
+                      width: 120,
                     ),
                     Text(
                       gpa1==null?"":gpa1.toStringAsFixed(2)
@@ -130,14 +130,14 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 40,
+              height: 20,
               child: Card(
                 elevation: 8,
                 child: Row(
                   children: [
                     Text("Year I Semester 2  :  "),
                     SizedBox(
-                      width: 160,
+                      width: 120,
                     ),
                     Text(
                         gpa2==null?"":gpa2.toStringAsFixed(2)
@@ -150,14 +150,14 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 40,
+              height: 20,
               child: Card(
                 elevation: 8,
                 child: Row(
                   children: [
                     Text("Year II Semester 1  : "),
                     SizedBox(
-                      width: 160,
+                      width: 120,
                     ),
                     Text(
                         gpa3==null?"":gpa3.toStringAsFixed(2)
@@ -170,14 +170,14 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 40,
+              height: 20,
               child: Card(
                 elevation: 8,
                 child: Row(
                   children: [
                     Text("Year II Semester 2  : "),
                     SizedBox(
-                      width: 160,
+                      width: 120,
                     ),
                     Text(
                         gpa4==null?"":gpa4.toStringAsFixed(2)
@@ -190,14 +190,14 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 40,
+              height: 20,
               child: Card(
                 elevation: 8,
                 child: Row(
                   children: [
                     Text("Year III Semester 1  :"),
                     SizedBox(
-                      width: 160,
+                      width: 120,
                     ),
                     Text(
                         gpa5==null?"":gpa5.toStringAsFixed(2)
@@ -210,14 +210,14 @@ class _GradeCalcState extends State<GradeCalc> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 40,
+              height: 20,
               child: Card(
                 elevation: 8,
                 child: Row(
                   children: [
                     Text("Year III Semester 2  :"),
                     SizedBox(
-                      width: 160,
+                      width: 120,
                     ),
                     Text(
                         gpa6==null?"":gpa6.toStringAsFixed(2)
@@ -240,21 +240,15 @@ class _GradeCalcState extends State<GradeCalc> {
     var subs=0;
     var i=showData.length-1;
     var subfin=showData[i]['Htno'];
-    while(showData[i]['Htno']==subfin){
+    while(showData[i]['Htno']==subfin)
+    {
       i--;
       subs++;
     }
-    debugPrint(subs.toString());
-    if(check.substring(0,5)=="19035"){
-      index=index+53*subs;
-      while(showData[index]['Htno']!=check){
-        index++;
-      }
-      if(index>=showData.length-1){
-        index=showData.length-1;
-      }
-    }
-    else{
+    //debugPrint(subs.toString());
+    //debugPrint(index.toString());
+    var c=0;
+    if(check.substring(0,4)=="1803"){
       int x=int.parse(check.substring(8));
       index=index+(x-1)*subs;
       while(showData[index]['Htno']!=check){
@@ -264,44 +258,74 @@ class _GradeCalcState extends State<GradeCalc> {
         index=showData.length-1;
       }
     }
-    while(showData[index]['Htno']==check){
-       if(showData[index]['Grade']=='O'){
-            numer+=10*int.parse(showData[index]['Credits']);
-            denom+=int.parse(showData[index]['Credits']);
-       }
-       if(showData[index]['Grade']=='S'){
-           numer+=9*int.parse(showData[index]['Credits']);
-           denom+=int.parse(showData[index]['Credits']);
-       }
-       if(showData[index]['Grade']=='A'){
-         numer+=8*int.parse(showData[index]['Credits']);
-         denom+=int.parse(showData[index]['Credits']);
-       }
-       if(showData[index]['Grade']=='B'){
-         numer+=7*int.parse(showData[index]['Credits']);
-         denom+=int.parse(showData[index]['Credits']);
-       }
-       if(showData[index]['Grade']=='C'){
-         numer+=6*int.parse(showData[index]['Credits']);
-         denom+=int.parse(showData[index]['Credits']);
-       }
-       if(showData[index]['Grade']=='D'){
-         numer+=5*int.parse(showData[index]['Credits']);
-         denom+=int.parse(showData[index]['Credits']);
-       }
-       if(showData[index]['Grade']=='F'){
-         numer+=0;
-         denom+=int.parse(showData[index]['Credits']);
-       }
-
-       if(index>=showData.length-1){
-         index=showData.length-1;
-         break;
-       }
-       index+=1;
+    if(check.substring(0,4)=="1903"){
+      if(showData[showData.length-1]['Htno'].substring(0,4)=="1903") {
+        final val = int.parse(
+            showData[showData.length - 1]['Htno'].substring(8));
+        //debugPrint(val.toString());
+        index = showData.length - val * subs;
+        //debugPrint(index.toString());
+        int x = int.parse(check.substring(8));
+        index = index + (x - 1) * subs;
+        debugPrint(index.toString());
+        while (showData[index]['Htno'] != check) {
+          index++;
+        }
+        if (index >= showData.length - 1) {
+          index = showData.length - 1;
+        }
+      }
+      else{
+        c=1;
+      }
     }
+    if(c==1){
+      return null;
+    }
+    else{
+      while(showData[index]['Htno']==check){
+        if(showData[index]['Grade']=='O'){
+          numer+=10*int.parse(showData[index]['Credits']);
+          denom+=int.parse(showData[index]['Credits']);
+        }
+        if(showData[index]['Grade']=='S'){
+          numer+=9*int.parse(showData[index]['Credits']);
+          denom+=int.parse(showData[index]['Credits']);
+        }
+        if(showData[index]['Grade']=='A'){
+          numer+=8*int.parse(showData[index]['Credits']);
+          denom+=int.parse(showData[index]['Credits']);
+        }
+        if(showData[index]['Grade']=='B'){
+          numer+=7*int.parse(showData[index]['Credits']);
+          denom+=int.parse(showData[index]['Credits']);
+        }
+        if(showData[index]['Grade']=='C'){
+          numer+=6*int.parse(showData[index]['Credits']);
+          denom+=int.parse(showData[index]['Credits']);
+        }
+        if(showData[index]['Grade']=='D'){
+          numer+=5*int.parse(showData[index]['Credits']);
+          denom+=int.parse(showData[index]['Credits']);
+        }
+        if(showData[index]['Grade']=='F'){
+          numer+=0;
+          denom+=int.parse(showData[index]['Credits']);
+        }
+        if(index>=showData.length-1){
+          index=showData.length-1;
+          break;
+        }
+        index++;
+      }
+
+    }
+    //debugPrint(index.toString());
+    //debugPrint(index.toString());
+    //debugPrint(numer.toString());
+    //debugPrint(denom.toString());
     final result=numer/denom;
-    debugPrint(result.toString());
+    //debugPrint(result.toString());
     return result;
   }
 }
