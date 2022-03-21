@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+// import 'package:flutter/services.dart';
 class Attendence extends StatefulWidget {
   const Attendence({Key? key}) : super(key: key);
 
@@ -17,7 +17,7 @@ class _AttendenceState extends State<Attendence> {
     return Scaffold(
 
       appBar: AppBar(
-        title: Text("Attendence"),
+        title: Text("Attendence",style: TextStyle(color: Colors.white)),
       ),
       body: Column(
         children:[FutureBuilder(
@@ -44,7 +44,7 @@ class _AttendenceState extends State<Attendence> {
                 perc=_findAttendence(textController.text);
               });
             },
-            color: Colors.blue,
+            color: const Color(0xFF5db075),
             child: Text("Search",style: TextStyle(color:Colors.white),),
           ),
           Text(perc==null?"":perc),

@@ -7,7 +7,7 @@ class TimeTable extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Time Table"),
+        title: Text("Time Table",style: TextStyle(color: Colors.white)),
       ),
       body: Center(
         child: PhotoView(

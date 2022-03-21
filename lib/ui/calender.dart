@@ -7,7 +7,7 @@ class Calender extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Academic Calendar"),
+        title: Text("Academic Calendar",style: TextStyle(color: Colors.white)),
       ),
       body: Center(
         child:PhotoView(

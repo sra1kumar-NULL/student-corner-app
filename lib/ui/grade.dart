@@ -1,7 +1,9 @@
-import 'dart:math';
+// import 'dart:math';
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+// import 'package:flutter/services.dart';
+// import 'package:http/http.dart';
+// import 'package:studentcorner/networking/network.dart';
 
 class GradeCalc extends StatefulWidget {
   const GradeCalc({Key? key}) : super(key: key);
@@ -18,217 +20,240 @@ class _GradeCalcState extends State<GradeCalc> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text("Grade")),
+        title: Center(child: Text("Grade Card",style: TextStyle(color: Colors.white),)),
       ),
+      resizeToAvoidBottomInset: false,
       body: Container(
-          child: Column(
-        children: [
-          Padding(
-            padding: const EdgeInsets.all(11.0),
-            child: TextField(
-              decoration: InputDecoration(
-                border: OutlineInputBorder(),
-                hintText: "Roll Number",
-              ),
-              controller: rollcontroller,
-            ),
-          ),
-          FlatButton(
-            onPressed: () {
-              setState(() {
-                gpa1 =_calculateGrade(rollcontroller.text,sem1);
-                gpa2 =_calculateGrade(rollcontroller.text,sem2);
-                gpa3 =_calculateGrade(rollcontroller.text,sem3);
-                gpa4 =_calculateGrade(rollcontroller.text,sem4);
-                gpa5 =_calculateGrade(rollcontroller.text,sem5);
-                gpa6 =_calculateGrade(rollcontroller.text,sem6);
-              });
-
-            },
-            child: Text("Search"),
-            color: Colors.blue,
-            textColor: Colors.white,
-          ),
-          Row(
-            children: [
-              FutureBuilder(
-                builder: (context, snapshot) {
-                  var showData = json.decode(snapshot.data.toString());
-                  sem1=showData;
-                  return Text("");
-                },
-                future:
-                    DefaultAssetBundle.of(context).loadString("assets/cse/sem1.json"),
-              ),
-              FutureBuilder(
-                builder: (context, snapshot) {
-                  var showData = json.decode(snapshot.data.toString());
-                  sem2=showData;
-                  return Text("");
-                },
-                future:
-                DefaultAssetBundle.of(context).loadString("assets/cse/sem2.json"),
-              ),
-              FutureBuilder(
-                builder: (context, snapshot) {
-                  var showData = json.decode(snapshot.data.toString());
-                  sem3=showData;
-                  return Text("");
-                },
-                future:
-                DefaultAssetBundle.of(context).loadString("assets/cse/sem3.json"),
-              ),
-              FutureBuilder(
-                builder: (context, snapshot) {
-                  var showData = json.decode(snapshot.data.toString());
-                  sem4=showData;
-                  return Text("");
-                },
-                future:
-                DefaultAssetBundle.of(context).loadString("assets/cse/sem4.json"),
-              ),
-              FutureBuilder(
-                builder: (context, snapshot) {
-                  var showData = json.decode(snapshot.data.toString());
-                  sem5=showData;
-                  return Text("");
-                },
-                future:
-                DefaultAssetBundle.of(context).loadString("assets/cse/sem5.json"),
-              ),
-              FutureBuilder(
-                builder: (context, snapshot) {
-                  var showData = json.decode(snapshot.data.toString());
-                  sem6=showData;
-                  return Text("");
-                },
-                future:
-                DefaultAssetBundle.of(context).loadString("assets/cse/sem6.json"),
-              ),
-            ],
-          ),
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Container(
-              height: 20,
-              child: Card(
-                elevation: 8,
-                child: Row(
+          child: SingleChildScrollView(
+            child: Column(
                   children: [
-                    Text("Year I Semester 1  :  "),
-                    SizedBox(
-                      width: 120,
-                    ),
-                    Text(
-                      gpa1==null?"":gpa1.toStringAsFixed(2)
-                    ),
-                  ],
+            Padding(
+              padding: const EdgeInsets.all(11.0),
+              child: TextField(
+                decoration: InputDecoration(
+                  border: OutlineInputBorder(),
+                  hintText: "Roll Number",
+                ),
+                controller: rollcontroller,
+              ),
+            ),
+            FlatButton(
+              onPressed: () {
+                setState(() {
+                  gpa1 =_calculateGrade(rollcontroller.text,sem1);
+                  gpa2 =_calculateGrade(rollcontroller.text,sem2);
+                  gpa3 =_calculateGrade(rollcontroller.text,sem3);
+                  gpa4 =_calculateGrade(rollcontroller.text,sem4);
+                  gpa5 =_calculateGrade(rollcontroller.text,sem5);
+                  gpa6 =_calculateGrade(rollcontroller.text,sem6);
+                });
+          
+              },
+              child: Text("Search"),
+              color: const Color(0xFF5db075),
+              textColor: Colors.white,
+            ),
+            Row(
+              children: [
+                FutureBuilder(
+                  builder: (context, snapshot) {
+                    var showData = json.decode(snapshot.data.toString());
+                    sem1=showData;
+                    return const Text("");
+                  },
+                  future:
+                  //getSem1(),
+                      DefaultAssetBundle.of(context).loadString("assets/cse/sem1.json"),
+                ),
+                FutureBuilder(
+                  builder: (context, snapshot) {
+                    var showData = json.decode(snapshot.data.toString());
+                    sem2=showData;
+                    return const Text("");
+                  },
+                  future:
+                  DefaultAssetBundle.of(context).loadString("assets/cse/sem2.json"),
+                ),
+                FutureBuilder(
+                  builder: (context, snapshot) {
+                    var showData = json.decode(snapshot.data.toString());
+                    sem3=showData;
+                    return const Text("");
+                  },
+                  future:
+                  DefaultAssetBundle.of(context).loadString("assets/cse/sem3.json"),
+                ),
+                FutureBuilder(
+                  builder: (context, snapshot) {
+                    var showData = json.decode(snapshot.data.toString());
+                    sem4=showData;
+                    return const Text("");
+                  },
+                  future:
+                  DefaultAssetBundle.of(context).loadString("assets/cse/sem4.json"),
+                ),
+                FutureBuilder(
+                  builder: (context, snapshot) {
+                    var showData = json.decode(snapshot.data.toString());
+                    sem5=showData;
+                    return const Text("");
+                  },
+                  future:
+                  DefaultAssetBundle.of(context).loadString("assets/cse/sem5.json"),
+                ),
+                FutureBuilder(
+                  builder: (context, snapshot) {
+                    var showData = json.decode(snapshot.data.toString());
+                    sem6=showData;
+                    return const Text("");
+                  },
+                  future:
+                  DefaultAssetBundle.of(context).loadString("assets/cse/sem6.json"),
+                ),
+              ],
+            ),
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                height: 40,
+                child: Card(
+                  elevation: 8,
+                  child: Row(
+                    children: [
+                      SizedBox(
+                        width: 40,
+                      ),
+                  
+                      Text("Year I Semester 1  :  "),
+                      SizedBox(
+                        width: 120,
+                      ),
+                      Text(
+                        gpa1==null?"":gpa1.toStringAsFixed(2)
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Container(
-              height: 20,
-              child: Card(
-                elevation: 8,
-                child: Row(
-                  children: [
-                    Text("Year I Semester 2  :  "),
-                    SizedBox(
-                      width: 120,
-                    ),
-                    Text(
-                        gpa2==null?"":gpa2.toStringAsFixed(2)
-                    ),
-                  ],
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                height: 40,
+                child: Card(
+                  elevation: 8,
+                  child: Row(
+                    children: [
+                       SizedBox(
+                        width: 40,
+                      ),
+                      Text("Year I Semester 2  :  "),
+                      SizedBox(
+                        width: 120,
+                      ),
+                      Text(
+                          gpa2==null?"":gpa2.toStringAsFixed(2)
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Container(
-              height: 20,
-              child: Card(
-                elevation: 8,
-                child: Row(
-                  children: [
-                    Text("Year II Semester 1  : "),
-                    SizedBox(
-                      width: 120,
-                    ),
-                    Text(
-                        gpa3==null?"":gpa3.toStringAsFixed(2)
-                    ),
-                  ],
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                height: 40,
+                child: Card(
+                  elevation: 8,
+                  child: Row(
+                    children: [
+                       SizedBox(
+                        width: 40,
+                      ),
+                      Text("Year II Semester 1  : "),
+                      SizedBox(
+                        width: 120,
+                      ),
+                      Text(
+                          gpa3==null?"":gpa3.toStringAsFixed(2)
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Container(
-              height: 20,
-              child: Card(
-                elevation: 8,
-                child: Row(
-                  children: [
-                    Text("Year II Semester 2  : "),
-                    SizedBox(
-                      width: 120,
-                    ),
-                    Text(
-                        gpa4==null?"":gpa4.toStringAsFixed(2)
-                    ),
-                  ],
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                height: 40,
+                child: Card(
+                  elevation: 8,
+                  child: Row(
+                    children: [
+                       SizedBox(
+                        width: 40,
+                      ),
+                      Text("Year II Semester 2  : "),
+                      SizedBox(
+                        width: 120,
+                      ),
+                      Text(
+                          gpa4==null?"":gpa4.toStringAsFixed(2)
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Container(
-              height: 20,
-              child: Card(
-                elevation: 8,
-                child: Row(
-                  children: [
-                    Text("Year III Semester 1  :"),
-                    SizedBox(
-                      width: 120,
-                    ),
-                    Text(
-                        gpa5==null?"":gpa5.toStringAsFixed(2)
-                    ),
-                  ],
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                height: 40,
+                child: Card(
+                  elevation: 8,
+                  child: Row(
+                    children: [
+                       SizedBox(
+                        width: 40,
+                      ),
+                      Text("Year III Semester 1  :"),
+                      SizedBox(
+                        width: 120,
+                      ),
+                      Text(
+                          gpa5==null?"":gpa5.toStringAsFixed(2)
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Container(
-              height: 20,
-              child: Card(
-                elevation: 8,
-                child: Row(
-                  children: [
-                    Text("Year III Semester 2  :"),
-                    SizedBox(
-                      width: 120,
-                    ),
-                    Text(
-                        gpa6==null?"":gpa6.toStringAsFixed(2)
-                    ),
-                  ],
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                height: 40,
+                child: Card(
+                  elevation: 8,
+                  child: Row(
+                    children: [
+                       SizedBox(
+                        width: 40,
+                      ),
+                      Text("Year III Semester 2  :"),
+                      SizedBox(
+                        width: 120,
+                      ),
+                      Text(
+                          gpa6==null?"":gpa6.toStringAsFixed(2)
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ),
-          ),
-        ],
-      )),
+                  ],
+                ),
+          )),
     );
   }
 
@@ -328,4 +353,12 @@ class _GradeCalcState extends State<GradeCalc> {
     //debugPrint(result.toString());
     return result;
   }
+
+  // Future<dynamic> getSem1() async{
+  //   Network network= Network("https://api.jsonbin.io/b/621dc0c6a703bb67491ef126");
+  //   var sem1Data=await network.getData();
+  //   print(sem1Data);
+  //   return sem1Data;
+    
+  // }
 }
