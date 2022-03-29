@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         
         home: SplashScreen(
           loaderColor: Colors.white54,
-          loadingText: Text("Made with ❤ by Mr.S",
+          loadingText: Text("Made with 🔥 by Mr.S",
           style: TextStyle(
             color: Colors.blueGrey[700],
             fontSize: 18,
