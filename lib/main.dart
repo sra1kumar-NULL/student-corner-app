@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         
         home: AnimatedSplashScreen(
           splashTransition:SplashTransition.slideTransition,
-          duration: 2000,
+          duration: 1500,
           backgroundColor:const Color(0xFF5db075) ,
           splash: 'assets/playstore.png',
       nextScreen: const StartScreen(),

@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 // import 'package:flutter/services.dart';
 class Attendence extends StatefulWidget {
@@ -19,6 +20,7 @@ class _AttendenceState extends State<Attendence> {
       appBar: AppBar(
         title: Text("Attendence",style: TextStyle(color: Colors.white)),
       ),
+      resizeToAvoidBottomInset: false,
       body: Column(
         children:[FutureBuilder(
             builder: (context,snapshot){
@@ -47,7 +49,27 @@ class _AttendenceState extends State<Attendence> {
             color: const Color(0xFF5db075),
             child: Text("Search",style: TextStyle(color:Colors.white),),
           ),
-          Text(perc==null?"":perc),
+          Container(
+            width: MediaQuery.of(context).size.width/2,
+            height: MediaQuery.of(context).size.height/2,
+            decoration: BoxDecoration(
+                 color:  const Color(0xFF5db075),
+                 shape: BoxShape.circle,
+
+            ),
+           
+            child: Center(
+              child: Text(perc==null?"0%":perc
+              ,
+              
+              style: TextStyle(
+                fontSize: 24,
+                color: Colors.white,
+                fontWeight: FontWeight.bold
+              ),
+              ),
+            )
+            ),
         ]
       ),
     );
