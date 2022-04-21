@@ -11,7 +11,7 @@ class StartScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Student Corner",style: TextStyle(color: Colors.white)),
+        title: const Text("Student Corner",style: TextStyle(color: Colors.white)),
         backgroundColor: const Color(0xFF5db075),
       ),
       drawer: Drawer(

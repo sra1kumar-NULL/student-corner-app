@@ -14,8 +14,8 @@ class GradeCalc extends StatefulWidget {
 
 class _GradeCalcState extends State<GradeCalc> {
   final rollcontroller = TextEditingController();
-  var sem1,sem2,sem3,sem4,sem5,sem6;
-  var gpa1,gpa2,gpa3,gpa4,gpa5,gpa6;
+  var sem1,sem2,sem3,sem4,sem5,sem6,sem7;
+  var gpa1,gpa2,gpa3,gpa4,gpa5,gpa6,gpa7;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -46,6 +46,7 @@ class _GradeCalcState extends State<GradeCalc> {
                   gpa4 =_calculateGrade(rollcontroller.text,sem4);
                   gpa5 =_calculateGrade(rollcontroller.text,sem5);
                   gpa6 =_calculateGrade(rollcontroller.text,sem6);
+                  gpa7 =_calculateGrade(rollcontroller.text,sem7);
                 });
           
               },
@@ -109,6 +110,15 @@ class _GradeCalcState extends State<GradeCalc> {
                   },
                   future:
                   DefaultAssetBundle.of(context).loadString("assets/cse/sem6.json"),
+                ),
+                FutureBuilder(
+                  builder: (context, snapshot) {
+                    var showData = json.decode(snapshot.data.toString());
+                    sem7=showData;
+                    return const Text("");
+                  },
+                  future:
+                  DefaultAssetBundle.of(context).loadString("assets/cse/sem7.json"),
                 ),
               ],
             ),
@@ -245,6 +255,29 @@ class _GradeCalcState extends State<GradeCalc> {
                       ),
                       Text(
                           gpa6==null?"":gpa6.toStringAsFixed(2)
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ),
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                height: 40,
+                child: Card(
+                  elevation: 8,
+                  child: Row(
+                    children: [
+                       SizedBox(
+                        width: 40,
+                      ),
+                      Text("Year IV Semester 1  :"),
+                      SizedBox(
+                        width: 120,
+                      ),
+                      Text(
+                          gpa7==null?"":gpa7.toStringAsFixed(2)
                       ),
                     ],
                   ),

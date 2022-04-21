@@ -1,0 +1,4178 @@
+[
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0501",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0502",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0503",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0504",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0505",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0506",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0507",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0508",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "Htno",
+		"Subcode": "Subcode",
+		"Subname": "Subname",
+		"": "",
+		"Grade": "Grade",
+		"Credits": "Credits"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0509",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0510",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0511",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0512",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0513",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0514",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0515",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "A",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0516",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0517",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0518",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0519",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0520",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0521",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0522",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0523",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0524",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0525",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0526",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0527",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0528",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0529",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0530",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0531",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0532",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0533",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0534",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0535",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0536",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0537",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0538",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0539",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0540",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0541",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0542",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0543",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0544",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0545",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0546",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0547",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0548",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0549",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0550",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0551",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0552",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "18031A0553",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0501",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0502",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0503",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0504",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "Htno",
+		"Subcode": "Subcode",
+		"Subname": "Subname",
+		"": "",
+		"Grade": "Grade",
+		"Credits": "Credits"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0505",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0506",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0507",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0508",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0509",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0510",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "A",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0511",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1641051",
+		"Subname": "CRYPTOGRAPHY AND NETWORK SECURITY",
+		"": "(COMM",
+		"Grade": "D",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1641052",
+		"Subname": "SOFTWARE ARCHITECTURE & DEISGN PATTERNS",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1641053",
+		"Subname": "WEB TECHNOLOGIES",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1641054",
+		"Subname": "MANAGERIAL ECONOMICS AND FINANCIAL ANALY",
+		"": "",
+		"Grade": "C",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1641057",
+		"Subname": "SOFTWARE ARCHITECURES & DESIGN PATTERNS",
+		"": "",
+		"Grade": "S",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R1641058",
+		"Subname": "WEB TECHNOLOGIES LAB",
+		"": "",
+		"Grade": "O",
+		"Credits": "2"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R164105C",
+		"Subname": "MOBILE COMPUTING (COMMON TO CSE & IT)",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	},
+	{
+		"Htno": "19035A0512",
+		"Subcode": "R164105F",
+		"Subname": "SCRIPTING LANGUAGES",
+		"": "",
+		"Grade": "B",
+		"Credits": "3"
+	}
+]
