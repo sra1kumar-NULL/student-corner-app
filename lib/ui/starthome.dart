@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:studentcorner/ui/attendence.dart';
 import 'package:studentcorner/ui/calender.dart';
 import 'package:studentcorner/ui/grade.dart';
+import 'package:studentcorner/ui/profile.dart';
 import 'package:studentcorner/ui/timetable.dart';
 class StartScreen extends StatelessWidget {
   const StartScreen({Key? key}) : super(key: key);
@@ -59,8 +60,8 @@ class StartScreen extends StatelessWidget {
            ListTile(
              title: Text("Profile"),
              onTap: (){
-              //  Navigator.push(context,
-              //      MaterialPageRoute(builder: (context) => Attendence()));
+               Navigator.push(context,
+                   MaterialPageRoute(builder: (context) => ProfilePage()));
              },
            ),
          ],
@@ -172,7 +173,9 @@ class StartScreen extends StatelessWidget {
             ),
             SizedBox(height: 20,),
             InkWell(
-              onTap: (){},
+              onTap: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => ProfilePage()));
+              },
               child: Container(
                 width: 100,
                 height: 100,

@@ -20,7 +20,7 @@ class _GradeCalcState extends State<GradeCalc> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text("Grade Card",style: TextStyle(color: Colors.white),)),
+        title: Text("Grade Card",style: TextStyle(color: Colors.white),),
       ),
       resizeToAvoidBottomInset: false,
       body: Container(
